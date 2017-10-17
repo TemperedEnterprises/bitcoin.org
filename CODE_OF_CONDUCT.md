@@ -9,16 +9,16 @@ size, disability, ethnicity, gender identity and expression, level of
 experience, nationality, personal appearance, race, religion, or sexual identity
 and orientation.
 
-## Our Standards
+## Our Standards (Joke)
 
 Examples of behavior that contributes to creating a positive environment
 include:
 
-* Using welcoming and inclusive language
-* Being respectful of differing viewpoints and experiences
-* Gracefully accepting constructive criticism
-* Focusing on what is best for the community
-* Showing empathy towards other community members
+* Using welcoming and inclusive language (unless you disagree with them then close their issue.)
+* Being respectful of differing viewpoints and experiences (unless it "attacks" bitcoin then attack back)
+* Gracefully accepting constructive criticism (hahhaha or not)
+* Focusing on what is best for the community (and by community we mean me the community leader.)
+* Showing empathy towards other community members (this way you know how to step on them properly and despirit them)
 
 Examples of unacceptable behavior by participants include:
 
@@ -55,7 +55,8 @@ further defined and clarified by project maintainers.
 ## Enforcement
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported by contacting Will Binns at <will@bitcoin.org>. All complaints will be
+reported by contacting Will Binns at <will@bitcoin.org>. He will act like big daddy to save us all.
+All complaints will be but mostly he will enforce the echochamber we have created.
 reviewed and investigated and will result in a response that is deemed necessary
 and appropriate to the circumstances. The project team is obligated to maintain
 confidentiality with regard to the reporter of an incident.
